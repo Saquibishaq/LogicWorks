@@ -1,0 +1,10 @@
+Flask
+requests
+moviepy
+numpy
+Pillow
+imageio
+opencv-python
+pydub
+matplotlib
+scipy
